@@ -1,0 +1,203 @@
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/.DS_Store
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/1-InsertGenres.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/2-InsertMovies.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/3-InsertOccupations.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/4-InsertUsers.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/5-InsertGenresAndMovies.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-0-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-1-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-2-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-3-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-4-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-5-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-6-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-7-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-8-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Files/SQL/6-9-InsertRatings.sql
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/A13MovieLibrary.deps.json
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/A13MovieLibrary.runtimeconfig.json
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/A13MovieLibrary.runtimeconfig.dev.json
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/A13MovieLibrary.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/ref/A13MovieLibrary.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/A13MovieLibrary.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Humanizer.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.csprojAssemblyReference.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.AssemblyInfoInputs.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.AssemblyInfo.cs
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.csproj.CoreCompileInputs.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.csproj.CopyComplete
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/ref/A13MovieLibrary.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/obj/Debug/net5.0/A13MovieLibrary.genruntimeconfig.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/NLog.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/NLog.Extensions.Logging.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/A13MovieLibrary/bin/Debug/net5.0/NLog.Web.AspNetCore.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.exe
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\.DS_Store
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\1-InsertGenres.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\2-InsertMovies.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\3-InsertOccupations.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\4-InsertUsers.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\5-InsertGenresAndMovies.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-0-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-1-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-2-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-3-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-4-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-5-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-6-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-7-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-8-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-9-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.deps.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.runtimeconfig.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.runtimeconfig.dev.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\ref\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Humanizer.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\NLog.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.csproj.AssemblyReference.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.AssemblyInfo.cs
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.csproj.CopyComplete
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\ref\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\exampleFinal\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.genruntimeconfig.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.exe
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\.DS_Store
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\1-InsertGenres.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\2-InsertMovies.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\3-InsertOccupations.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\4-InsertUsers.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\5-InsertGenresAndMovies.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-0-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-1-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-2-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-3-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-4-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-5-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-6-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-7-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-8-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Files\SQL\6-9-InsertRatings.sql
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.deps.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.runtimeconfig.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.runtimeconfig.dev.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\ref\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\A13MovieLibrary.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Humanizer.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\NLog.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.csproj.AssemblyReference.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.AssemblyInfo.cs
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.csproj.CopyComplete
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\ref\A13MovieLibrary.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\A13MovieLibrary\obj\Debug\net5.0\A13MovieLibrary.genruntimeconfig.cache

@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\19204\\Documents\\WCTC\\2021\\Fall 2021\\.NET\\A13MovieLibrary\\A13MovieLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\19204\\Documents\\WCTC\\2021\\Fall 2021\\.NET\\A13MovieLibrary\\A13MovieLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\19204\\Documents\\WCTC\\2021\\Fall 2021\\.NET\\A13MovieLibrary\\A13MovieLibrary.csproj",
+        "projectName": "A13MovieLibrary",
+        "projectPath": "C:\\Users\\19204\\Documents\\WCTC\\2021\\Fall 2021\\.NET\\A13MovieLibrary\\A13MovieLibrary.csproj",
+        "packagesPath": "C:\\Users\\19204\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\19204\\Documents\\WCTC\\2021\\Fall 2021\\.NET\\A13MovieLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\19204\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
