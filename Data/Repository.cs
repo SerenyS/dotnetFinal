@@ -9,10 +9,11 @@ namespace A13MovieLibrary.Data
 {
     public class Repository : IRepository
     {
+        //Methods 
 
         public void SearchAll()
         {
-            System.Console.WriteLine("\nDisplaying all movies: ");
+            System.Console.WriteLine("\nDisplaying All Movies: ");
 
             using(var db = new MovieContext())
                 {
@@ -26,7 +27,7 @@ namespace A13MovieLibrary.Data
 
         public void SearchOne()
         {
-            Console.Write("\nSearch by movie title: ");
+            Console.Write("\nSearch Movie Title: ");
             string mTitle = Console.ReadLine().ToLower();
 
             using(var db = new MovieContext())
@@ -39,7 +40,7 @@ namespace A13MovieLibrary.Data
                     {
                         Console.WriteLine("\nRecord not found");
                     
-                        Console.Write("\nSearch by movie title: ");
+                        Console.Write("\nSearch Different Movie Title: ");
                         mTitle = Console.ReadLine().ToLower();
                     }
 
@@ -54,10 +55,10 @@ namespace A13MovieLibrary.Data
 
         public void AddMovie()
         {
-            Console.Write("\nEnter movie title: ");
+            Console.Write("\nEnter New Movie Title: ");
             string mTitle = Console.ReadLine();
 
-            Console.Write("\nEnter new release date (mm/dd/yyyy): ");
+            Console.Write("\nEnter Release Date (mm/dd/yyyy): ");
             var mReleseDate = System.Console.ReadLine();
 
             using(var db = new MovieContext())
@@ -77,13 +78,13 @@ namespace A13MovieLibrary.Data
 
         public void EditMovie()
         {
-            Console.Write("\nSearch movie title: ");
+            Console.Write("\nSearch Movie Title: ");
             string mTitle = Console.ReadLine();
 
-            Console.Write("\nUpdate movie title: ");
+            Console.Write("\nUpdate Movie Title: ");
             string newTitle = Console.ReadLine();
 
-            Console.Write("\nUpdate movie title (mm/dd/yyyy): ");
+            Console.Write("\nUpdate Movie Release Date (mm/dd/yyyy): ");
             var newReleaseDate = Console.ReadLine();
 
             using(var db = new MovieContext())
@@ -111,7 +112,7 @@ namespace A13MovieLibrary.Data
                     .FirstOrDefault();
                 do
                 {
-                    Console.Write("\nDelete movie title: ");
+                    Console.Write("\nDelete Movie: ");
                     mTitle = Console.ReadLine();  
 
                     foundMovie = db.Movies.Where(m => m.Title.Contains(mTitle))
@@ -131,16 +132,16 @@ namespace A13MovieLibrary.Data
 
         public void AddUser()
         {            
-            Console.Write("Enter user age: ");
+            Console.Write("Users Age: ");
             var uAge = Int32.Parse(Console.ReadLine());
 
-            Console.Write("\nEnter user gender: ");
+            Console.Write("\n Users Genter (Female/Male): ");
             var uGender = Console.ReadLine();
 
-            Console.Write("\nEnter user zipcode: ");
+            Console.Write("\nUsers ZipCode: ");
             var uZipCode = Console.ReadLine();
 
-            Console.Write("\nEnter user occupation: ");
+            Console.Write("\nUsers Occupation: ");
             var uOccupation = Console.ReadLine();
 
             using(var db = new MovieContext())
@@ -168,7 +169,7 @@ namespace A13MovieLibrary.Data
 
                 var userDetails = db.Users.Include(ud => ud.Occupation).Where(ud => ud.Id == newUserId).FirstOrDefault();
 
-                Console.WriteLine($"\n New user details: Id - {userDetails.Id} | Gender - {userDetails.Gender} | ZipCode - {userDetails.ZipCode} | Occupation - {userDetails.Occupation.Name}");
+                Console.WriteLine($"\n New User Details: Id - {userDetails.Id} | Gender - {userDetails.Gender} | ZipCode - {userDetails.ZipCode} | Occupation - {userDetails.Occupation.Name}");
             }
         }
 
@@ -176,7 +177,7 @@ namespace A13MovieLibrary.Data
         {
             using (var db = new MovieContext()) 
             { 
-                Console.Write("\nEnter the user Id that will rate the movie: ");
+                Console.Write("\nUsers ID: ");
                 var userId = Int64.Parse(Console.ReadLine());
 
                 var mTitle = "";
@@ -189,7 +190,7 @@ namespace A13MovieLibrary.Data
                     {
                         Console.WriteLine("\nRecord not found");
                     
-                        Console.Write("\nEnter the user Id that will rate the movie: ");
+                        Console.Write("\nTry a Different User ID: ");
                         userId = Int64.Parse(Console.ReadLine());
                     }
 
@@ -197,12 +198,12 @@ namespace A13MovieLibrary.Data
 
                 var userFound2 = db.Users.Where(u => u.Id == userId).FirstOrDefault();
 
-                Console.Write("\nEnter the movie that will be rated:  ");
+                Console.Write("\n Enter Movie Title :  ");
                 mTitle = Console.ReadLine();
 
                 var movieFound = db.Movies.FirstOrDefault(m=>m.Title == mTitle );
 
-                Console.Write("\nHow do you rate the movie?  ");
+                Console.Write("\n Enter Rating:  ");
                 var mRate = Int64.Parse(Console.ReadLine());
 
                 var userMovie = new UserMovie()
@@ -220,7 +221,7 @@ namespace A13MovieLibrary.Data
 
                 db.SaveChanges();
                 
-                Console.WriteLine($"\n User Id: {userMovie.User.Id} | Movie title: {userMovie.Movie.Title} | Movie rating: {userMovie.Rating}");
+                Console.WriteLine($"\n User Id: {userMovie.User.Id} | Movie title: {userMovie.Movie.Title} | Movie Rating: {userMovie.Rating}");
 
             }
         }
