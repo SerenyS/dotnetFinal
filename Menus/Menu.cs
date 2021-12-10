@@ -58,7 +58,7 @@ namespace A13MovieLibrary.Menus
             Console.WriteLine("4. Search for a Movie");
             Console.WriteLine("5. Add new User");
             Console.WriteLine("6. Delete Movie");
-            Console.WriteLine("7. Rate Movie (Based on Movie Id)");
+            Console.WriteLine("7. Rate Movie (User ID)");
             Console.WriteLine("8. Exit\n");
         }
 
